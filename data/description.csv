@@ -1,5 +1,9 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃やすごみ,,,,#FD7400
+ペットボトル,,,,#FFE11A
+びん,,,,#BEDB39
+カン,,,,#1F8A70
+プラ容器包装,,,,#004358
+粗大ゴミ,,,,#421458
+不燃ごみ,,,,#58062A
+古紙,,,,#806BFD
